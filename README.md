@@ -1,6 +1,4 @@
 # COVID-19-TRACKER
-
-
 # APP SAMPLE IMAGE:
 # MAIN PAGE
 ![image](https://user-images.githubusercontent.com/62868878/85386868-bfa5f100-b561-11ea-9c5f-9f1ea25d8dd0.png)
